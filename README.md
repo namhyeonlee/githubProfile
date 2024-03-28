@@ -4,9 +4,12 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namhyeonlee&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
-<a href="s">
- <img src="https://github-readme-streak-stats.herokuapp.com/?username=namhyeonlee&theme=tokyonight)](https://git.io/streak-stats" />
-</a>
+<p align="center">
+  <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="Users" title="Repo users">
+    <img src="https://freshidea.com/jonah/app/github-search-results/streak-stats"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
