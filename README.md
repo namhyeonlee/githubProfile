@@ -1,9 +1,12 @@
 
 
 
- <div align="center">
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhyeonlee&layout=compact)
- </div>
+<a href="https://github.com/rahul-jha98/github-stats-transparent">
+
+![](https://raw.githubusercontent.com/namhyeonlee/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/namhyeonlee/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
