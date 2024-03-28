@@ -2,7 +2,7 @@
 
 
  <div align="center">
-   {![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhyeonlee&layout=compact)}
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhyeonlee&layout=compact)
  </div>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
