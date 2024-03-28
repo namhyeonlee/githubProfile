@@ -1,10 +1,11 @@
 
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=namhyeonlee&theme=tokyonight)](https://git.io/streak-stats)
 <a href="s" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namhyeonlee&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=namhyeonlee&theme=tokyonight)](https://git.io/streak-stats)
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
