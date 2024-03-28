@@ -2,6 +2,7 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=namhyeonlee&theme=tokyonight)](https://git.io/streak-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=namhyeonlee)](https://github.com/anuraghazra/github-readme-stats)
 <a href="s" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namhyeonlee&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
