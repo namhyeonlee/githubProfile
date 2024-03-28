@@ -1,7 +1,7 @@
 
 
 
-<a href="s">
+<a href="s" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namhyeonlee&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <p align="center">
