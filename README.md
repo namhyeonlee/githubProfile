@@ -3,6 +3,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=namhyeonlee&theme=tokyonight)](https://git.io/streak-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=namhyeonlee)](https://github.com/anuraghazra/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <a href="s" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namhyeonlee&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
