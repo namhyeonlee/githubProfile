@@ -1,11 +1,11 @@
 
 
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
-
-![](https://raw.githubusercontent.com/namhyeonlee/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/namhyeonlee/github-stats-transparent/output/generated/languages.svg)
-
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namhyeonlee&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=namhyeonlee&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
