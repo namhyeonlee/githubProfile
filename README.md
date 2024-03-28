@@ -1,6 +1,9 @@
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhyeonlee&layout=compact)
+
+ <div align="center">
+   {![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhyeonlee&layout=compact)}
+ </div>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -42,7 +45,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="[https://velog.io/@oka1313](https://efficacious-ox-7f4.notion.site/0275dccfc61b4fbeb9d8a9dd6cb7a04e)">
-    <img src="https://img.shields.io/badge/Resume-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Resume-1EBC8F?style=for-the-badge&logoColor=white" />&nbsp
   </a>
   <a href="mailto:namhyeon128@gmail.com">
     <img
